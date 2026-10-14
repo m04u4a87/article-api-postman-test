@@ -36,4 +36,4 @@
 
 ## 執行結果
 - 三輪錯誤率皆為0%，吞吐量隨使用者數增加，系統在這個小量負載下沒有出現吃力的跡象。
-完整的測試案例表請見 [JMeter負載測試模擬](jemer/jmeter-summary.xlsx)
+- 完整的測試案例表請見 [JMeter負載測試模擬](jemer/jmeter-summary.xlsx)
